@@ -1,2 +1,3 @@
 Probando archivo
 Voy a agregar al staging area este cambio
+Estoy agregando otra linea a file.txt
