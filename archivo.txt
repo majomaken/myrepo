@@ -1,3 +1,2 @@
 Probando el archivo
 Estoy agregando otra linea al archive
-Vamos a probar ahora sin hacer un git add a ver que pasa

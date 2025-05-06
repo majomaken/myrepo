@@ -1,2 +1,2 @@
 Probando archivo
-Voy a agregar al staging area este cambio.
+Voy a agregar al staging area este cambio
